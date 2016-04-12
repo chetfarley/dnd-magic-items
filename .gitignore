@@ -1,0 +1,6 @@
+
+*.codekit
+
+Gemfile
+
+*.lock
